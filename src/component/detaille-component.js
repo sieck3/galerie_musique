@@ -1,4 +1,5 @@
 import React from 'react'
+//test
 
 // {albums.results.map((album, index) => <p key={index}>{album.title}</p>)}
 const DetailleCoponent = ({ albumDetaille, returneVideo, changeVideo }) => (
